@@ -1,0 +1,404 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Roboto", sans-serif;
+  color: #5f4d5d;
+  font-style: 16px;
+  width: 1440px;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 33px 100px 24px 113px;
+  align-content: center;
+}
+.nav {
+  color: #b08ead;
+  display: flex;
+  padding-top: 17px;
+}
+a {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-decoration: none;
+  padding-right: 40px;
+}
+
+.image {
+  display: flex;
+}
+.gradient {
+  height: 817px;
+  background: linear-gradient(to bottom, #c9adc6 58%, #d6bbd3 42%);
+  display: flex;
+  justify-content: center;
+}
+
+.picture {
+  padding: 72px 411px 70px 178px;
+}
+
+.text {
+  background: #b08ead;
+  margin-top: 182px;
+  margin-left: 782px;
+  position: absolute;
+  color: #ffffff;
+  padding: 124px 105px 114px 40px;
+}
+
+.new {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 1.5px;
+  text-align: left;
+}
+h1 {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 55px;
+  text-transform: none;
+  padding-bottom: 8px;
+}
+
+.buy {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 2px;
+  padding-right: 0;
+}
+.about {
+  height: 808px;
+  display: center;
+}
+.textaboutme {
+  padding-top: 75px;
+  text-align: center;
+}
+.im {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #b99bb6;
+}
+
+h2 {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 38px;
+  text-transform: none;
+  color: #5f4d5d;
+}
+
+.me {
+  height: 427px;
+  background: #ceb3cb;
+}
+
+.products {
+  height: 427px;
+  background: #ceb3cb;
+}
+
+.contact {
+  height: 427px;
+  background: #ceb3cb;
+}
+
+button {
+  border: 1px solid #b99bb6;
+  border-radius: 25px;
+  height: 45px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 15px;
+  /* identical to box height, or 136% */
+  background-color: #fff;
+  text-align: center;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 15px 29px;
+  color: #b99bb6;
+  margin-top: 23px;
+}
+
+.collage {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  color: #ffffff;
+  text-transform: none;
+}
+h3 {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  padding-top: 10px;
+}
+
+.pl {
+  padding-left: 23px;
+}
+
+.more {
+  padding-left: 23px;
+  margin-top: 8px;
+}
+
+.aboutme {
+  height: 825px;
+  display: flex;
+  background: #ceb3cb;
+}
+
+.medesign {
+  background: #b08ead;
+  margin-top: 182px;
+  margin-left: 214px;
+  position: absolute;
+  color: #ffffff;
+  padding: 124px 58px 119px 63px;
+}
+
+.new {
+  text-transform: uppercase;
+}
+
+.buy {
+  text-transform: uppercase;
+}
+
+.imgme {
+  position: absolute;
+  margin-left: 585px;
+  margin-top: 75px;
+}
+
+.content {
+  height: 1501px;
+  padding: 75px 112px;
+}
+.content1 {
+  display: flex;
+  height: 457px;
+  justify-content: space-between;
+  border-bottom: 1px solid #d7b7d4;
+}
+
+.text1 {
+  width: 481px;
+  padding-top: 88px;
+}
+
+.imgf {
+  height: 416px;
+  width: 608px;
+}
+
+#impt {
+  color: #b99bb6;
+}
+
+.content2 {
+  padding-top: 40px;
+  display: flex;
+  height: 546px;
+  justify-content: space-between;
+  border-bottom: 1px solid #d7b7d4;
+}
+
+.text2 {
+  width: 515px;
+  padding-top: 100px;
+}
+
+.content3 {
+  display: flex;
+  height: 417px;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+.newcolection {
+  height: 825px;
+  background: #ceb3cb;
+}
+
+.mecol {
+  background: #b08ead;
+  margin-top: 182px;
+  margin-left: 786px;
+  position: absolute;
+  color: #ffffff;
+  padding: 124px 58px 119px 63px;
+}
+
+.imgme2 {
+  position: absolute;
+  margin-left: 315px;
+  margin-top: 75px;
+}
+
+.magazin {
+  height: 1067px;
+  padding: 75px 113px;
+  padding-bottom: 0px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  text-align: center;
+  height: 495px;
+  width: 377px;
+}
+
+#pr {
+  margin-top: 8px;
+  color: #b0b0b0;
+}
+
+.forms {
+  background: #ceb3cb;
+  height: 568px;
+  display: flex;
+  padding: 67px 248px 83px 228px;
+  color: #fff;
+}
+
+.colum1 {
+  width: 219px;
+  height: 325px;
+  margin-right: 144px;
+  margin-top: 25px;
+}
+.colum2 {
+  height: 418px;
+  width: 700px;
+}
+
+.date {
+  width: 700px;
+}
+
+.massag {
+  flex-direction: column;
+  height: 178px;
+}
+
+h4 {
+  font-family: Cormorant Garamond;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+input {
+  margin-bottom: 30px;
+  height: 50px;
+  width: 276px;
+  background: #ceb3cb;
+  border: 1px solid #ffffff;
+  padding-left: 15px;
+  margin-right: 24px;
+  font-family: Cormorant Garamond;
+  font-size: 18px;
+  font-style: italic;
+  border-color: #fff;
+}
+
+.formess {
+  height: 103px;
+  width: 600px;
+}
+
+.send {
+  border: 1px solid #ffffff;
+  background: #ceb3cb;
+  height: 50px;
+  width: 210px;
+  color: #fff;
+  border-radius: 0px;
+}
+
+.pbot {
+  padding-bottom: 20px;
+}
+
+.sletter {
+  display: flex;
+  height: 330px;
+  padding: 97px 384px 107px;
+}
+
+.updates {
+  justify-content: center;
+}
+
+.finput {
+  background: #fff;
+  height: 60px;
+  width: 208px;
+  border-radius: 0px;
+  border-color: #b99bb6;
+  margin-right: 0px;
+  margin-left: -5px;
+}
+
+.forme {
+  align-content: center;
+}
+
+.subscribe {
+  background: #ceb3cb;
+  height: 60px;
+  width: 208px;
+  border-radius: 0px;
+  margin-right: 0px;
+  margin-left: -4px;
+  color: #fff;
+}
